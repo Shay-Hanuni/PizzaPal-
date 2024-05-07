@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User xsi:type="premium">
+    <Name>matan</Name>
+    <PhoneNumber>123</PhoneNumber>
+    <IDNumber>321</IDNumber>
+    <MembershipType>premium</MembershipType>
+  </User>
+  <User xsi:type="friend">
+    <Name>Ofra</Name>
+    <PhoneNumber>147</PhoneNumber>
+    <IDNumber>741</IDNumber>
+    <MembershipType>friend</MembershipType>
+  </User>
+  <User>
+    <Name>shay</Name>
+    <PhoneNumber>234</PhoneNumber>
+    <IDNumber>432</IDNumber>
+    <MembershipType>guest</MembershipType>
+  </User>
+  <User xsi:type="delivery">
+    <Name>yosi</Name>
+    <PhoneNumber>8000</PhoneNumber>
+    <IDNumber>0098</IDNumber>
+    <MembershipType>delivery</MembershipType>
+  </User>
+  <User xsi:type="premium">
+    <Name>raz</Name>
+    <PhoneNumber>0525555555</PhoneNumber>
+    <IDNumber>123</IDNumber>
+    <MembershipType>premium</MembershipType>
+  </User>
+  <User xsi:type="premium">
+    <Name>arie</Name>
+    <PhoneNumber>12345</PhoneNumber>
+    <IDNumber>54321</IDNumber>
+    <MembershipType>premium</MembershipType>
+  </User>
+</ArrayOfUser>

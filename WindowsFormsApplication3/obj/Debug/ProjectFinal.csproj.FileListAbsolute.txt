@@ -1,0 +1,39 @@
+C:\Users\matan\source\repos\PizzaOrderingSystem\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\matan\source\repos\PizzaOrderingSystem\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\matan\source\repos\PizzaOrderingSystem\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\matan\source\repos\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\ProjectFinal.csproj.AssemblyReference.cache
+C:\Users\matan\source\repos\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\matan\source\repos\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\ProjectFinal.csproj.GenerateResource.cache
+C:\Users\matan\source\repos\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\ProjectFinal.csproj.CoreCompileInputs.cache
+C:\Users\matan\source\repos\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\matan\source\repos\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\matan\source\repos\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.entrence_screen_pizza.resources
+C:\Users\matan\source\repos\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Database.resources
+C:\Users\matan\source\repos\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.MyDeliverySystem.resources
+C:\Users\matan\source\repos\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Thankyou.resources
+C:\Users\shay2\Desktop\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\shay2\Desktop\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\shay2\Desktop\PizzaOrderingSystem\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\shay2\Desktop\PizzaOrderingSystem\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\shay2\Desktop\PizzaOrderingSystem\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\shay2\Desktop\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Database.resources
+C:\Users\shay2\Desktop\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.entrence_screen_pizza.resources
+C:\Users\shay2\Desktop\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.MyDeliverySystem.resources
+C:\Users\shay2\Desktop\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\shay2\Desktop\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Thankyou.resources
+C:\Users\shay2\Desktop\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\ProjectFinal.csproj.GenerateResource.cache
+C:\Users\shay2\Desktop\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\ProjectFinal.csproj.CoreCompileInputs.cache
+C:\Users\shay2\Desktop\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\ProjectFinal.csproj.AssemblyReference.cache
+C:\Users\shay2\Desktop\לימודים\שנה א\מצגות מונחה עצמים\PizzaOrderingSystem\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\shay2\Desktop\לימודים\שנה א\מצגות מונחה עצמים\PizzaOrderingSystem\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\shay2\Desktop\לימודים\שנה א\מצגות מונחה עצמים\PizzaOrderingSystem\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\shay2\Desktop\לימודים\שנה א\מצגות מונחה עצמים\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\ProjectFinal.csproj.AssemblyReference.cache
+C:\Users\shay2\Desktop\לימודים\שנה א\מצגות מונחה עצמים\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Database.resources
+C:\Users\shay2\Desktop\לימודים\שנה א\מצגות מונחה עצמים\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.entrence_screen_pizza.resources
+C:\Users\shay2\Desktop\לימודים\שנה א\מצגות מונחה עצמים\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.MyDeliverySystem.resources
+C:\Users\shay2\Desktop\לימודים\שנה א\מצגות מונחה עצמים\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\shay2\Desktop\לימודים\שנה א\מצגות מונחה עצמים\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Thankyou.resources
+C:\Users\shay2\Desktop\לימודים\שנה א\מצגות מונחה עצמים\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\ProjectFinal.csproj.GenerateResource.cache
+C:\Users\shay2\Desktop\לימודים\שנה א\מצגות מונחה עצמים\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\ProjectFinal.csproj.CoreCompileInputs.cache
+C:\Users\shay2\Desktop\לימודים\שנה א\מצגות מונחה עצמים\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\shay2\Desktop\לימודים\שנה א\מצגות מונחה עצמים\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
